@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3DGraphicWithOpenGL</string>
+    <string name="intro_text">Welcome to 3D Graphic with OpenGL</string>
+    <string name="basic_shape">Basic Shape</string>
+    <string name="_3d_scene">3D Scene</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
